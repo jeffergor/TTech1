@@ -1,0 +1,12 @@
+{
+    "data": [
+        {
+            "Nombre Trabajador": "martha",
+            "Fecha Inicio": "2024-09-23",
+            "Fecha Fin": "2024-09-30",
+            "Supervisor": "jefferso",
+            "Estado": "Negado",
+            "Motivo": "no"
+        }
+    ]
+}
